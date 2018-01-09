@@ -37,9 +37,16 @@ p {
 
 }
 body {
-	background-image: url("blocky.png");
+	background-image: url("blocky3.png");
 	background-size: cover;
 	font-family: "Arial", Sans-serif;
+	margin: 0px;
+	min-height: 100%;
+	width: 100%;
 }
 
-margin: 10px 15px 10px 15px;
+html {
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+}
