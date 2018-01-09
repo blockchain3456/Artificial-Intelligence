@@ -50,3 +50,14 @@ html {
 	height: 100%;
 	width: 100%;
 }
+.nav a{
+	color: black;
+	background-color:#D3D3D3;
+	font-family:Arial;
+}
+#what {
+	background-color: #6495ED;
+	padding:3px;
+	border: 3px solid black;
+	margin:20px;
+}
