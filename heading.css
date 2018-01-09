@@ -1,5 +1,10 @@
 h1 {
 	font-size: 100px;
+<<<<<<< HEAD
 	background-color: orange;
 	color: red;
+=======
+	background-color: blue;
+	color: white;
+>>>>>>> 9b6acdb98c11479165c156a3f32ac93df02f41c3
 }
