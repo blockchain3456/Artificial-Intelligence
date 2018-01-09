@@ -51,12 +51,22 @@ html {
 	width: 100%;
 }
 
+div.container{
+	margin: 0 auto;
+	text-align: center;
+	background-image: url("blockchainimage.png");
+}
+
 a{
  text-decoration:none;
  color:#cc0000;
+ position: center;
 }
 a.button,div.container{
- float:left;
+ float: left;
+ margin: 70px;
+ display: block;
+ padding-top: 100px;
 }
 a.button{
  background-color:#cc0000;
@@ -65,5 +75,7 @@ a.button{
  color:#fff;
  margin-right:10px;
  padding:10px 10px 10px 10px;
+
 }
+
 
