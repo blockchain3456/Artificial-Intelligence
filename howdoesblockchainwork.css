@@ -4,16 +4,75 @@
 	font-family:Arial;
 }
 h1 {
-	font-size:20px;
-	font-family:Arial;
+	font-size: 100px;
+	 color: rgba(255,255,255,1);
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  padding: 50px;
+  line-height: 28px;
+  text-align: center;
+  bottom: 0;
+  margin: 0;
+  height: 50px;
+  transition: height .5s;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+}
+body {
+	background-image: url("blocky3.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: "Arial", Sans-serif;
+	background-position: top;
+	margin: 0px;
+	min-height: 100%;
+	width: 100%;
 }
 h2 {
-	font-size:15px;
-	font-family:Arial;
+		font-size: 20px;
+	margin: 10px 15px 10px 15px;
+	background: black;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  padding: 10px;
+  line-height: 28px;
+  text-align: justify;
+  bottom: 0;
+  margin: 0;
+  height: 30px;
+  transition: height .5s;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+	padding: 20px;
+	color: white;
+	margin-bottom: 50px;
 }
 #about {
 	background-color: #6495ED;
 	padding:3px;
 	border: 3px solid black;
 	margin:20px;
+}
+
+#what {
+	font-size: 20px;
+	margin: 10px 15px 10px 15px;
+	background: black;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  padding: 10px;
+  line-height: 28px;
+  text-align: justify;
+  bottom: 0;
+  margin: 0;
+  height: 230px;
+  transition: height .5s;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+	padding: 20px;
+	color: white;
+	margin-bottom: 50px;
 }
