@@ -1,7 +1,12 @@
 h1 {
 	font-size: 100px;
+<<<<<<< HEAD
+	background-color: orange;
+	color: red;
+=======
 	background-color: blue;
 	color: white;
+<<<<<<< HEAD
 	 color: rgba(255,255,255,1);
   background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
@@ -49,3 +54,7 @@ font-size: 30px;
 	color: white;
 	margin-right: 30px;
 	margin-left: 30px;
+=======
+>>>>>>> 9b6acdb98c11479165c156a3f32ac93df02f41c3
+}
+>>>>>>> 83b2995bc4d21f6bdb1748eeb93726c0c73cc8ca
